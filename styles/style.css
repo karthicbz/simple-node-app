@@ -5,6 +5,12 @@
 }
 
 body{
-    background: #333;
+    background: white;
     color: #fff;
+}
+
+h1{
+    background: #f3f4f6;
+    padding: 1rem;
+    color: black;
 }
